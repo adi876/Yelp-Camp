@@ -62,7 +62,7 @@ Then go to localhost:3000
 * [Heroku](https://id.heroku.com/login)
 
 ## Authors
-* [Aditya Patni](https://github.com/prakalpshakya31)
+* [Aditya Patni](https://github.com/adi876)
 
 ## Acknowledgments
 * Colt Steele's Bootcamp course
