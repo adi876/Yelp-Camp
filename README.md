@@ -2,8 +2,7 @@
 YelpCamp is a campground reviewing website. Users can create their own campgrounds or review others' campgrounds.
 YelpCamp is created using Node.js, Express, and MongoDB.
 
-## Live Demo
-To see the app in action, go to [YelpCamp](https://yelp-camp-prakalpshakya31.herokuapp.com/)
+
 
 ## Features
 * Authentication
@@ -20,6 +19,9 @@ To see the app in action, go to [YelpCamp](https://yelp-camp-prakalpshakya31.her
 * Responsive web design
 
 ## Getting Started
+### Clone or download this repository
+```
+git clone https://github.com/adi876/Yelp-Camp.git
 ```
 ### Get mongoDB
 ```
@@ -60,8 +62,7 @@ Then go to localhost:3000
 * [Heroku](https://id.heroku.com/login)
 
 ## Authors
-* [Aditya Patni](https://github.com/adi876)
+* [Aditya Patni](https://github.com/prakalpshakya31)
 
 ## Acknowledgments
 * Colt Steele's Bootcamp course
-
